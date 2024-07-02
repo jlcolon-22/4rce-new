@@ -14,7 +14,10 @@ module.exports = {
     theme: {
         extend: {
             colors:{
-                main: '#FFC711'
+                main: '#FFC711',
+                lightYellow:'#fbad18',
+                dark:'#072d44',
+                ylw:'#FFC711'
             }
         },
     },
